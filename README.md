@@ -1,3 +1,5 @@
 # Adidas
 
-[Adidas.pdf](https://github.com/marcelooliveiramendes/Adidas/files/9716523/Adidas.pdf)
+Site feito com HTML e CSS
+
+![adidas](https://user-images.githubusercontent.com/48383295/194088009-5b6606dc-b05a-4a02-85b9-59ffe50adae1.jpg)
